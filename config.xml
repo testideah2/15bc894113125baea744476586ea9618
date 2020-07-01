@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.http//www.akka.app."
         versionCode = "10"
-        version     = "1.5.0">
+        version     = "1.6.0">
 
-    <name>ТЕСТ. akka.ru</name>
+    <name>ТЕСТ. http://www.akka.ru/</name>
 
     <description>
         Чеченцы-аккинцы - история и факты
